@@ -11,4 +11,4 @@ function squareDigits(num){
   let ans = sqr.join('')
    return ans
   }
-  console.log(squareDigits(9119));
+  squareDigits(9119);
